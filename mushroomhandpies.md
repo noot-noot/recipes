@@ -24,7 +24,7 @@ Handful       |  rosemary, dried
 
 Amount    | Ingredient
 --------- | -------------
-1 tub     |  Baby Bella mushrooms, whole
+8 oz      |  Baby Bella mushrooms, whole
 2 Tbsp    |  Earth Balance, divided
 1         |  yellow onion
 1.5 tsp   |  crushed garlic
