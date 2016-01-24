@@ -9,7 +9,7 @@ Amount        | Ingredient
 ------------- | -------------
 2.5 cups      |  flour
 1 cup         |  Earth Balance, melted
-8 oz          |  Tofutti sour cream
+8 oz          |  Tofutti sour cream or cream cheese
 1 tsp         |  salt
 Handful       |  rosemary, dried
 
