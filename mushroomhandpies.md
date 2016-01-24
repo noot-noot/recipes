@@ -43,6 +43,8 @@ Amount    | Ingredient
  
 ## Assembling the pies
 
-1. Take dough out of freezer and shape into flattened discs. (Approximately 8 discs.)
+1. Take dough out of freezer and shape into flattened discs. (Approximately 8 discs.) Arrange on a parchment paper lined baking sheet.
 2. Fill center of discs with filling.
-3. Bake at 20-25 minutes at 400 °F.
+3. Fold about 1" of the edges over the pie- make a square shape and then pinch the corners together.
+4. Bake at 20-25 minutes at 400 °F or until the Daiya has melted and the crust is a light golden brown
+5. Allow to cool on a baking rack
