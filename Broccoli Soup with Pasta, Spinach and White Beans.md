@@ -1,6 +1,6 @@
 Yields 6 servings
 
-#Ingredients
+# Ingredients
 
 Quantity | Ingredient
 ----|----
@@ -16,7 +16,7 @@ Quantity | Ingredient
 1/4 teaspoon | freshly ground pepper
 1 cup | small pasta, such as macaroni or shells
 
-#Directions
+# Directions
 
 1. Set aside two cups of broccoli florets.
 2. Melt the coconut oil in a large pot over medium heat.
